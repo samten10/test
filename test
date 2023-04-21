@@ -1,0 +1,6 @@
+ftp -n -i -d ftp.example.com
+user username password
+cd /path/to/Folder1
+rename filename.txt /path/to/Folder2/filename.txt
+delete filename.txt
+quit
